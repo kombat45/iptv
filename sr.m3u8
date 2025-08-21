@@ -164,8 +164,5 @@ http://77.235.1.19:8000/play/a08d/index.m3u8
 http://185.26.157.3:8080/live/nashe_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино", Наше крутое
 http://178.217.72.66:8080/nashekrutoe/index.m3u8
-#EXTINF:-1 group-title="Кино", Наше новое кино 
-http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино", Наш кинопоказ HD
-http://178.217.72.66:8080/nashkinopokazhd/index.m3u8
+
 
