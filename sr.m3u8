@@ -1,19 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="polsat-sport-news" tvg-logo="https://iptvx.one/picons/polsat-sport-news.png" group-title="Спортивные",Polsat Sport 3 HD 
-http://185.236.229.62:9981/play/a06m
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" group-title="Спортивные",Turkmenistan Sport 
-https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://epgx.site/p/okko-sport.png" group-title="Спортивные",Okko.Спорт
-
-#EXTINF:-1 tvg-id="real-madrid-tv" tvg-logo="https://epg.iptvx.one/picons/real-madrid-tv.png" group-title="Спортивные",Real Madrid
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="nfl-network-us" tvg-logo="http://epg.one/img2/4562.png" group-title="Спортивные",NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="mlb-network-us" tvg-logo="https://epg.iptvx.one/picons/mlb-network-us.png" group-title="Спортивные",MLB Network
-http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="nba-tv-us" tvg-logo="https://epg.iptvx.one/picons/nba-tv-us.png" group-title="Спортивные",NBA TV
-
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Общие", Telegram-канал
 https://t.me/loganet2
@@ -130,25 +116,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-rec=\"3\" catchup-days=\"3\" group-title="Украина test-2" tvg-id=\"28937\" tvg-logo=\"http://epg.propg.net/img/channel_icons/28937.png\" ,1+1 Марафон
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/28937/hls/pl.m3u8
-#EXTINF:-1 tvg-rec=\"3\" catchup-days=\"3\" group-title="Украина test-2" tvg-id=\"27652\" tvg-logo=\"http://epg.propg.net/img/channel_icons/27652.png\" ,1+1 Україна
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/27652/hls/pl.m3u8
-#EXTINF:-1 tvg-rec=\"3\" catchup-days=\"3\" group-title="Украина test-2" tvg-id=\"500\" tvg-logo=\"http://epg.propg.net/img/channel_icons/500.png\" ,ICTV
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/500/hls/pl.m3u8
-#EXTINF:-1 tvg-rec=\"3\" catchup-days=\"3\" group-title="Украина test-2" tvg-id=\"501\" tvg-logo=\"http://epg.propg.net/img/channel_icons/501.png\" ,Iнтер
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/501/hls/pl.m3u8
-#EXTINF:-1 tvg-rec=\"3\" catchup-days=\"3\" group-title="Украина test-2" tvg-id=\"34629\" tvg-logo=\"http://epg.propg.net/img/channel_icons/34629.png\" ,Iнтер+
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/34629/hls/pl.m3u8
-#EXTINF:-1 tvg-rec=\"8\" catchup-days=\"8\" group-title="Украина test-2" tvg-id=\"18019\" tvg-logo=\"http://epg.propg.net/img/channel_icons/18019.png\" ,НТН
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/18019/hls/pl.m3u8
-#EXTINF:-1 tvg-rec=\"3\" catchup-days=\"3\" group-title="Украина test-2" tvg-id=\"503\" tvg-logo=\"http://epg.propg.net/img/channel_icons/503.png\" ,СТБ
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/503/hls/pl.m3u8
-#EXTINF:-1 tvg-rec=\"8\" catchup-days=\"8\" group-title="Украина test-2" tvg-id=\"59782\" tvg-logo=\"http://epg.propg.net/img/channel_icons/59782.png\" ,ТЕТ
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/59782/hls/pl.m3u8
-#EXTINF:-1 tvg-rec=\"3\" catchup-days=\"3\" group-title="Украина test-2" tvg-id=\"18023\" tvg-logo=\"http://epg.propg.net/img/channel_icons/18023.png\" ,Новый канал
-http://rr3.tvdosug.net/~201c8d1265b6ba06059f484ec9b826d2391/18023/hls/pl.m3u8
 
 #EXTINF:-1 group-title="Кино", .Black
 http://176.62.72.48:8001/play/a03j/index.m3u8
