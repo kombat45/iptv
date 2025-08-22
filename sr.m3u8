@@ -121,4 +121,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Ютуб",СТУДИЯ-80(Elen Cora) - СНЕГ ЗА ОКНОМ
 https://youtu.be/4Y5IzMM9aJw?si=YVMpJWAJiwjm5agI
-
+#EXTINF:-1 group-title="Ютуб","Оля,чом же ми не двоє"
+https://youtu.be/lSWrW4keIVc?si=UFSMsqDJKYtAIjVJ
+#EXTINF:-1 group-title="Ютуб",ВИА "Синяя птица" - В море ходят пароходы
+https://youtu.be/oz1k9MVmZYc?si=AykxdRFv5yEy-UeU
