@@ -116,5 +116,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Ютуб", СНЕГ ЗА ОКНОМ
-https://www.youtube.com/watch?v=JwFfeJceBWM&list=RDJwFfeJceBWM&start_radio=1
+#EXTINF:-1 group-title="Ютуб"
+#EXTINF:-1 ,СТУДИЯ-80(Elen Cora) - СНЕГ ЗА ОКНОМ
+https://youtu.be/4Y5IzMM9aJw?si=YVMpJWAJiwjm5agI
+
